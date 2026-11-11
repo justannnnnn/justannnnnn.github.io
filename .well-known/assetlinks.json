@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "edu.androidsec.notes",
+      "sha256_cert_fingerprints": [
+        "BA:2F:93:82:65:E5:52:C2:03:82:3A:11:30:33:86:D6:7D:77:74:98:B9:4F:DD:A8:2D:58:8F:BB:13:36:51:00"
+      ]
+    }
+  }
+]
